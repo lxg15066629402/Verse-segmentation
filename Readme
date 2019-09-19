@@ -1,0 +1,15 @@
+Verse Segmentation 
+
+1. Dataset download  
+       链接：https://pan.baidu.com/s/1Ynzq2lEdU6CPUYi7xjVl9Q 
+       提取码：gd1k 
+2. Steps
+       1. load data
+       python extract_data_all.py
+       2. train model
+       python train_test.py
+       3. test
+       python train_test_submit.py
+       
+3. Data related introduction
+   https://verse2019.grand-challenge.org/Home/
